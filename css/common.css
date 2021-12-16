@@ -1,0 +1,45 @@
+.pyg_header_nav {
+    height: 31px;
+    background-color: #f1f1f1;
+}
+
+.pyg_header_nav .container {
+    font-size: 12px;
+    height: 31px;
+    line-height: 31px;
+    color: #6a6a6a;
+}
+
+.pyg_header_nav .header_login {
+    margin-left: 13px;
+    color: #6a6a6a;
+}
+
+.pyg_header_nav .header_register {
+    margin-left: 13px;
+    color: #c81629;
+}
+
+.pyg_header_nav .header_nav_list {
+    /* width: 630px; */
+    height: 31px;
+    /* ps */
+    /* background-color: pink; */
+}
+
+.pyg_header_nav .header_nav_list li {
+    float: left;
+}
+
+.pyg_header_nav .header_nav_list li a {
+    margin: 0 16px;
+    color: #6a6a6a;
+}
+
+.pyg_header_nav .header_nav_list li:first-child a {
+    margin-left: 0;
+}
+
+.pyg_header_nav .header_nav_list li:last-child a {
+    margin-right: 0;
+}
